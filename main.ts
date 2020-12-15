@@ -54,9 +54,6 @@ pins.digitalWritePin(DigitalPin.P15, 0)
 pins.digitalWritePin(DigitalPin.P13, 0)
 basic.showIcon(IconNames.Asleep)
 basic.forever(function () {
-	
-})
-basic.forever(function () {
     miganie()
 })
 basic.forever(function () {
